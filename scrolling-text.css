@@ -1,0 +1,67 @@
+.install-kusnap-mobile {
+  color: var(--color-white);
+}
+.browse-buy-and-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.browse-buy-and-container1 {
+  position: absolute;
+  top: 0;
+  left: 526px;
+}
+.browse-buy-and-container2 {
+  position: absolute;
+  top: 0;
+  left: 1052px;
+}
+.browse-buy-and-container3 {
+  position: absolute;
+  top: 0;
+  left: 1578px;
+}
+.browse-buy-and-container4 {
+  position: absolute;
+  top: 0;
+  left: 2104px;
+}
+.property-1default {
+  position: absolute;
+  top: 30px;
+  left: 20px;
+  width: 1512px;
+  height: 20px;
+  overflow: hidden;
+}
+.browse-buy-and-container5 {
+  position: absolute;
+  top: 0;
+  left: -1052px;
+}
+.browse-buy-and-container6 {
+  position: absolute;
+  top: 0;
+  left: -526px;
+}
+.property-1variant2 {
+  position: absolute;
+  top: 60px;
+  left: 20px;
+  width: 1512px;
+  height: 20px;
+  overflow: hidden;
+}
+.scrolling-text {
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-goldenrod);
+  font-family: var(--font-sora);
+}

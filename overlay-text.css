@@ -1,0 +1,34 @@
+.overlay-text25 {
+  position: relative;
+}
+.property-1default1,
+.property-1variant21 {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  border-radius: var(--br-xl);
+  width: 182px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+}
+.property-1variant21 {
+  top: 79px;
+  background-color: #f1f4ff;
+}
+.overlay-text24 {
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  width: 100%;
+  height: 138px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-sora);
+}

@@ -1,0 +1,39 @@
+.overlay-text1 {
+  position: relative;
+}
+.overlay-text {
+  align-self: stretch;
+  border-radius: var(--br-xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+}
+.overlay-text-parent {
+  position: absolute;
+  top: calc(50% - 128.5px);
+  left: calc(50% - 107.5px);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.overlay-1-child {
+  position: absolute;
+  top: -22px;
+  left: calc(50% - 16.1px);
+  width: 36.5px;
+  height: 36.1px;
+}
+.overlay-1 {
+  position: relative;
+  background-color: var(--color-white);
+  box-shadow: 0 0 35px rgba(0, 0, 0, 0.15);
+  width: 100%;
+  height: 339px;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-sora);
+}
